@@ -1,7 +1,7 @@
 <!-- Profile README for Wafaa Alayoubi -->
 
-<h1 align="center">Hi 👋, I'm Wafaa Alayoubi</h1>
-<h3 align="center">Machine Learning Developer | Deep Learning in Progress</h3>
+<h1 align="left">Hi 👋, I'm Wafaa Alayoubi</h1>
+<h3 align="left">Machine Learning Developer | Deep Learning in Progress</h3>
 
 ---
 
@@ -34,7 +34,7 @@
 
 - 🤟 [Sign Language Recognition](https://github.com/WafaaAlayoubi/sign-language-translator) — a system to translate sign language gestures into text using computer vision
 - 📈 [Cryptocurrency Price Prediction](https://github.com/WafaaAlayoubi) — applying machine learning to forecast crypto market trends
-- 🏆 [Kaggle Competition Projects](https://www.kaggle.com/wafaaalayoubi/code) — solutions and notebooks from various Kaggle challenges
+- 🏆 [Kaggle Competition Projects](https://github.com/WafaaAlayoubi/kaggle_competitions/) — solutions and notebooks from various Kaggle challenges
 
 ---
 
